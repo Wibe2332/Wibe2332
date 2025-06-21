@@ -39,9 +39,9 @@
 
 ### 📫 Contáctame
 
-[![Gmail Badge](https://img.shields.io/badge/-wilberth.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wilberth.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wilberthgalva@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wilberthgalva@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@wilberthdev-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wilberthdev)
-[![LinkedIn Badge](https://img.shields.io/badge/-Wilberth%20Fernandez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Wilberth%20Fernandez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wilberth-fernandez-22b22a368/)
 
 ---
 
