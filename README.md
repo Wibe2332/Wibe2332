@@ -32,7 +32,6 @@
 ### 📊 Estadísticas de GitHub
 
 ![Wilberth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wibe2332&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wibe2332&theme=tokyonight" alt="Streak Stats"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wibe2332&layout=compact&theme=tokyonight)
 
 ---
